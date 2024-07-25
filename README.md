@@ -12,6 +12,18 @@ O projeto conta com o Tailwind CSS, logo, para ver o projeto de forma correta vo
 ```
 npm ini -y
 ```
+#### 3 - Dentro do mesmo prompt de o seguinte comando para instalar o Tailwind CSS dentro do package.json:
+```
+npm install -D tailwind
+```
+#### 4 - Agora para gerar o arquivo de configuração faça a seguinte linha de comando: 
+```
+npx tailwindcss init
+```
+#### 5 - Por ultimo mas não menos importante, o script para buildar o projeto: 
+```
+npm run dev
+```
 
 
 ### 📦 Tecnologias Utilizadas
