@@ -24,6 +24,8 @@ npx tailwindcss init
 ```
 npm run dev
 ```
+### 🌐 O projeto também pode ser acessado online no seguinte link:
+[Soft Burguer](https://www.w3schools.com/html/)
 
 
 ### 📦 Tecnologias Utilizadas
