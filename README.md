@@ -3,6 +3,14 @@
 # Soft Burguer
 Pagina dedicada a hamburgueria Soft Burguer, além de uma página focada em mostrar os produtos, horário de funcionamento e localização a página também entrega um carrinho de compras que contabiliza o valor que o cliente irá pagar pelo seu pedido
 
+### ⚙️ Pré-requisitos
+
+O projeto conta com o Tailwind CSS, logo, para ver o projeto de forma correta você deve seguir os seguintes passos para inicializar
+## 1 - Baixe e instale o NODE. em sua máquina * [LINK NODE.](https://nodejs.org/en/download/prebuilt-installer/current)
+
+```
+https://marcosadrianoguedes.github.io/HDC-HOST/
+```
 
 ### 📦 Tecnologias Utilizadas
 * [HTML](https://www.w3schools.com/html/)
