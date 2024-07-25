@@ -5,6 +5,8 @@ Pagina dedicada a hamburgueria Soft Burguer, além de uma página focada em most
 
 
 ### 📦 Tecnologias Utilizadas
-* [HTML](https://i.imgur.com/BaYEyL5.png)
+* [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/html/html_css.asp)
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [Tailwind CSS](https://tailwindcss.com/)
 * [FIGMA](https://www.figma.com/)
