@@ -24,7 +24,7 @@ npx tailwindcss init
 ```
 npm run dev
 ```
-## 🌐 O projeto também pode ser acessado online no seguinte link:
+## 🌐 O projeto também pode ser acessado online através do link:
 [Soft Burguer](https://www.w3schools.com/html/)
 
 
@@ -34,3 +34,8 @@ npm run dev
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [Tailwind CSS](https://tailwindcss.com/)
 * [FIGMA](https://www.figma.com/)
+
+* ## 👷 Autorores
+
+* **Marcos Adriano Guedes** - *Desenvolvimento e commits* - [Marcos Adriano Guedes](https://www.linkedin.com/in/marcos-adriano01/)
+* **Matheus Fraga** - *Criação e prototipação do projeto* - [Matheus Fraga](https://www.instagram.com/sujeitoprogramador/)
